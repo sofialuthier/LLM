@@ -1,0 +1,19 @@
+Kullanıcı Karakterizasyonu: Kullanıcılara, bir kategoriye ait "ilgi düzeyi" ya da "tutum" atayın. Örneğin:
+
+Kullanıcı A, siyasetle daha fazla ilgileniyor.
+Kullanıcı B, eğitimle ilgili daha fazla yorum yapıyor.
+2. Yorumları Kullanıcılara Dağıtma
+Orantılı Dağıtım:
+
+Yorum sayısının sınırlı olması sebebiyle, her kullanıcıya rastgele veya tematik olarak uygun yorumlar atayın.
+Bir kullanıcıya 1-3 yorum ekleyebilirsiniz.
+Her yorum, birden fazla kullanıcıya atanabilir, böylece yorum havuzu genişler.
+Otomatik Üretim:
+
+GPT gibi dil modellerini kullanarak mevcut yorumları genişletebilir, çeşitlendirebilir veya yeniden yazabilirsiniz.
+Örneğin: Bir yorumun farklı şekillerde ifade edilmiş 2-3 varyasyonunu oluşturabilirsiniz.
+
+
+
+Reddit kullanıcılarının yorumlarını 3 insana verelim yaklaşık olarak kaç adet olacağını belirleyelim.
+
